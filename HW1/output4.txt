@@ -1,0 +1,27 @@
+Spacecrafts in the space mission management system:
+None
+
+Added spacecraft Orion.
+Added spacecraft Curiosity.
+Added spacecraft Falcon.
+Added spacecraft Lunar Lander.
+
+Spacecrafts in the space mission management system:
+Spacecraft: Orion, Type: Crewed, Status: Available
+Spacecraft: Curiosity, Type: Rover, Status: Available
+Spacecraft: Falcon, Type: Crewed, Status: Available
+Spacecraft: Lunar Lander, Type: Rover, Status: Available
+
+Removed spacecraft Lunar Lander.
+
+Spacecrafts in the space mission management system:
+Spacecraft: Orion, Type: Crewed, Status: Available
+Spacecraft: Curiosity, Type: Rover, Status: Available
+Spacecraft: Falcon, Type: Crewed, Status: Available
+
+Cannot remove spacecraft. Spacecraft Lunar Lander does not exist.
+Removed spacecraft Falcon.
+
+Spacecrafts in the space mission management system:
+Spacecraft: Orion, Type: Crewed, Status: Available
+Spacecraft: Curiosity, Type: Rover, Status: Available

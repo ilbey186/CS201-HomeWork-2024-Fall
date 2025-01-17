@@ -1,0 +1,22 @@
+Spacecrafts in the space mission management system:
+None
+
+Added spacecraft Orion.
+
+Spacecrafts in the space mission management system:
+Spacecraft: Orion, Type: Crewed, Status: Available
+
+Added spacecraft Curiosity.
+Added spacecraft Stellar Quest.
+
+Spacecrafts in the space mission management system:
+Spacecraft: Orion, Type: Crewed, Status: Available
+Spacecraft: Curiosity, Type: Rover, Status: Available
+Spacecraft: Stellar Quest, Type: Uncrewed, Status: Available
+
+Cannot add spacecraft. Spacecraft Stellar Quest already exists.
+
+Spacecrafts in the space mission management system:
+Spacecraft: Orion, Type: Crewed, Status: Available
+Spacecraft: Curiosity, Type: Rover, Status: Available
+Spacecraft: Stellar Quest, Type: Uncrewed, Status: Available

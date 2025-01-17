@@ -1,0 +1,114 @@
+Missions in the space mission management system:
+None
+
+Spacecrafts in the space mission management system:
+None
+
+Added mission Apollo 11.
+Added mission Mars Exploration.
+Added mission Jupiter Orbiter.
+Cannot add mission. Mission Apollo 11 already exists.
+
+Missions in the space mission management system:
+Mission: Apollo 11, Launch Date: 1969-07-16, Destination: Moon, Assigned Spacecraft Count: 0
+Mission: Mars Exploration, Launch Date: 2020-07-30, Destination: Mars, Assigned Spacecraft Count: 0
+Mission: Jupiter Orbiter, Launch Date: 2030-01-01, Destination: Jupiter, Assigned Spacecraft Count: 0
+
+Cannot remove mission. Mission Voyager 5 does not exist.
+Removed mission Jupiter Orbiter.
+
+Missions in the space mission management system:
+Mission: Apollo 11, Launch Date: 1969-07-16, Destination: Moon, Assigned Spacecraft Count: 0
+Mission: Mars Exploration, Launch Date: 2020-07-30, Destination: Mars, Assigned Spacecraft Count: 0
+
+Added spacecraft Orion.
+Added spacecraft Voyager 1.
+Added spacecraft Curiosity.
+Added spacecraft Enterprise.
+Cannot add spacecraft. Spacecraft Voyager 1 already exists.
+Added spacecraft Voyager 2.
+
+Spacecrafts in the space mission management system:
+Spacecraft: Orion, Type: Crewed, Status: Available
+Spacecraft: Voyager 1, Type: Uncrewed, Status: Available
+Spacecraft: Curiosity, Type: Rover, Status: Available
+Spacecraft: Enterprise, Type: Crewed, Status: Available
+Spacecraft: Voyager 2, Type: Rover, Status: Available
+
+Cannot remove spacecraft. Spacecraft Hubble does not exist.
+Removed spacecraft Orion.
+
+Spacecrafts in the space mission management system:
+Spacecraft: Voyager 1, Type: Uncrewed, Status: Available
+Spacecraft: Curiosity, Type: Rover, Status: Available
+Spacecraft: Enterprise, Type: Crewed, Status: Available
+Spacecraft: Voyager 2, Type: Rover, Status: Available
+
+Assigned spacecraft Voyager 1 to mission Mars Exploration.
+Assigned spacecraft Voyager 2 to mission Mars Exploration.
+Assigned spacecraft Curiosity to mission Apollo 11.
+
+Missions in the space mission management system:
+Mission: Apollo 11, Launch Date: 1969-07-16, Destination: Moon, Assigned Spacecraft Count: 1
+Mission: Mars Exploration, Launch Date: 2020-07-30, Destination: Mars, Assigned Spacecraft Count: 2
+
+Spacecrafts in the space mission management system:
+Spacecraft: Voyager 1, Type: Uncrewed, Status: Assigned
+Spacecraft: Curiosity, Type: Rover, Status: Assigned
+Spacecraft: Enterprise, Type: Crewed, Status: Available
+Spacecraft: Voyager 2, Type: Rover, Status: Assigned
+
+Cannot remove spacecraft. Spacecraft Voyager 1 is assigned to a mission.
+Cannot remove spacecraft. Spacecraft Curiosity is assigned to a mission.
+
+Cannot assign spacecraft. Spacecraft Orion does not exist.
+Cannot assign spacecraft. Mission Saturn Voyage does not exist.
+Cannot assign spacecraft. Spacecraft Orion does not exist.
+Cannot assign spacecraft. Spacecraft Voyager 1 is already assigned to mission Mars Exploration.
+Cannot assign spacecraft. Spacecraft Curiosity is already assigned to mission Apollo 11.
+Assigned spacecraft Enterprise to mission Mars Exploration.
+
+Mission:
+  Name: Mars Exploration
+  Launch Date: 2020-07-30
+  Destination: Mars
+  Assigned Spacecrafts:
+  - Voyager 1
+  - Voyager 2
+  - Enterprise
+
+Dropped spacecraft Voyager 1 from mission Mars Exploration.
+Cannot drop spacecraft. Spacecraft Orion does not exist.
+Dropped spacecraft Curiosity from mission Apollo 11.
+Cannot drop spacecraft. Spacecraft Voyager 1 is not assigned to any mission.
+
+Missions in the space mission management system:
+Mission: Apollo 11, Launch Date: 1969-07-16, Destination: Moon, Assigned Spacecraft Count: 0
+Mission: Mars Exploration, Launch Date: 2020-07-30, Destination: Mars, Assigned Spacecraft Count: 2
+
+Spacecrafts in the space mission management system:
+Spacecraft: Voyager 1, Type: Uncrewed, Status: Available
+Spacecraft: Curiosity, Type: Rover, Status: Available
+Spacecraft: Enterprise, Type: Crewed, Status: Assigned
+Spacecraft: Voyager 2, Type: Rover, Status: Assigned
+
+Mission:
+  Name: Apollo 11
+  Launch Date: 1969-07-16
+  Destination: Moon
+  Assigned Spacecrafts:
+    None
+
+Cannot show mission. Mission Voyager 10 does not exist.
+
+Spacecraft: Voyager 2, Type: Rover, Status: Assigned
+
+Cannot show spacecraft. Spacecraft Hubble does not exist.
+
+Removed mission Mars Exploration.
+
+Spacecrafts in the space mission management system:
+Spacecraft: Voyager 1, Type: Uncrewed, Status: Available
+Spacecraft: Curiosity, Type: Rover, Status: Available
+Spacecraft: Enterprise, Type: Crewed, Status: Available
+Spacecraft: Voyager 2, Type: Rover, Status: Available

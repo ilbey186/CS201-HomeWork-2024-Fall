@@ -1,0 +1,22 @@
+Missions in the space mission management system:
+None
+
+Added mission Apollo 11.
+
+Missions in the space mission management system:
+Mission: Apollo 11, Launch Date: 1969-07-16, Destination: Moon, Assigned Spacecraft Count: 0
+
+Added mission Mars Exploration.
+Added mission Voyager 1.
+
+Missions in the space mission management system:
+Mission: Apollo 11, Launch Date: 1969-07-16, Destination: Moon, Assigned Spacecraft Count: 0
+Mission: Mars Exploration, Launch Date: 2020-07-30, Destination: Mars, Assigned Spacecraft Count: 0
+Mission: Voyager 1, Launch Date: 2025-08-10, Destination: Jupiter, Assigned Spacecraft Count: 0
+
+Cannot add mission. Mission Apollo 11 already exists.
+
+Missions in the space mission management system:
+Mission: Apollo 11, Launch Date: 1969-07-16, Destination: Moon, Assigned Spacecraft Count: 0
+Mission: Mars Exploration, Launch Date: 2020-07-30, Destination: Mars, Assigned Spacecraft Count: 0
+Mission: Voyager 1, Launch Date: 2025-08-10, Destination: Jupiter, Assigned Spacecraft Count: 0

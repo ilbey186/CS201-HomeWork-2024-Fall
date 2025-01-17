@@ -1,0 +1,22 @@
+Missions in the space mission management system:
+None
+
+Added mission Apollo 11.
+Added mission Mars Exploration.
+Added mission Interstellar Voyage.
+
+Missions in the space mission management system:
+Mission: Apollo 11, Launch Date: 1969-07-16, Destination: Moon, Assigned Spacecraft Count: 0
+Mission: Mars Exploration, Launch Date: 2020-07-30, Destination: Mars, Assigned Spacecraft Count: 0
+Mission: Interstellar Voyage, Launch Date: 1969-07-16, Destination: Alpha Centauri, Assigned Spacecraft Count: 0
+
+Removed mission Mars Exploration.
+Removed mission Apollo 11.
+
+Missions in the space mission management system:
+Mission: Interstellar Voyage, Launch Date: 1969-07-16, Destination: Alpha Centauri, Assigned Spacecraft Count: 0
+
+Cannot remove mission. Mission Mars Exploration does not exist.
+
+Missions in the space mission management system:
+Mission: Interstellar Voyage, Launch Date: 1969-07-16, Destination: Alpha Centauri, Assigned Spacecraft Count: 0
